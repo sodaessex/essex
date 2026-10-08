@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="essex/essex.vcxproj" Id="694b1847-06a4-4fc2-8b66-20bbf59b7690" />
+</Solution>
